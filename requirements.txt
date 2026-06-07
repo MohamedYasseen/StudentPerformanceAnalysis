@@ -1,0 +1,6 @@
+For this project, I used couple of libraries that are essential to be installed and implemented.
+-Pandas
+-NumPy
+-Seaborn
+-matplotlib
+
