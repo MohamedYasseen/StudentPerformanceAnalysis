@@ -4,7 +4,7 @@ This project's objective is to relate variables contributing to students' higher
 
                       
 
-We analyze by following a Descriptive, Diagnostic, Predictive and persepctive approach along with slight implementation of Artificial Intelligence using libraries as Pandas, NumPy, Matplotlib and Seaborn
+We analyze by following a Descriptive, Diagnostic, Predictive and perspective approach along with slight implementation of Artificial Intelligence using libraries as Pandas, NumPy, Matplotlib and Seaborn
 
                        
 
